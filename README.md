@@ -1,12 +1,12 @@
 # 自我介绍
 
-  我叫燃野，我的爱好是：
-<br>·电子游戏
-<br>·慢跑
-<br>·动漫
+  我叫燃野，我平时喜欢做的事情有：
+* 电子游戏
+* 慢跑
+* 动漫
 
-<br>我学习过的编程相关技能有 `HTML` `CSS` `Java`，以下是我写过的代码节选：
-  
+我学习过的编程相关技能有 `HTML` `CSS` `Java`，以下是我写过的部分代码：
+```java
     public String toString() {
       String toTeam = "";
       for (int i = 0; i < total; i++) {
@@ -14,3 +14,4 @@
       }
       return toTeam;
     }
+```
