@@ -52,7 +52,7 @@
                 <td>空</td>
             </tr>
         </tfoot>
-    </table>
+ </table>
 ```
 
 ## 3.img 标签的用法
