@@ -30,7 +30,7 @@ DNS（Domain Name System）全称域名系统，是将域名和 IP 一一对应�
 
 右键开始栏右下角的网络图标 -> 选择“网络和 Internet 设置” -> 选择更改适配器选项 -> 右键正在连接的 WLAN 或者以太网 -> 选择属性 -> 双击 Internet 协议版本 4（TCP/IPv4） -> 选择使用下面的 DNS 服务器地址　-> 从以下的 DNS 地址里选择一个填入：
 
-![image](BlogDemo_Image/HTML_Note3_5.png)
+![image](BlogDemo_Image/HTML_Note3_5Update.png)
 
 ## 3.IP 的作用
 
@@ -52,7 +52,7 @@ ping 命令常常用于测试与目标 IP 连接的稳定性和速度，下面�
 
 - 顶级域名（例如 com）
 - 二级域名（俗称一级域名，例如 baidu.com、bing.com）
-- 三级域名（俗称二级域名，例如 www.baidu.com、cn.bing.com）
+- 三级域名（俗称二级域名，例如 www.baidu.com、cn.bing.com)
 
 下级域名和上级域名之间是父子关系。
 
