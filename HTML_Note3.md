@@ -18,9 +18,9 @@ URL 各个部分作用见下图：
 
 DNS（Domain Name System）全称域名系统，是将域名和 IP 一一对应的方法。
 
-在控制台输入 nslookup + 域名 即可查看该域名对应的 IP 信息。
+在控制台输入`nslookup + 域名`即可查看该域名对应的 IP 信息。
 
-举例，在控制台输入　 nslookup baidu.com ：
+举例，在控制台输入`nslookup baidu.com`：
 
 ![image](BlogDemo_Image/HTML_Note3_4.png)
 
@@ -36,11 +36,11 @@ DNS（Domain Name System）全称域名系统，是将域名和 IP 一一对应�
 
 IP（Internet Protocol）指网际互连协议，是 TCP/IP 体系中的网络层协议，用于在网络上定位指定的网络设备。
 
-ping 命令常常用于测试与目标 IP 连接的稳定性和速度，下面是 ping baidu.com 的例子。
+ping 命令常常用于测试与目标 IP 连接的稳定性和速度，下面是`ping baidu.com`的例子。
 
 ![image](BlogDemo_Image/HTML_Note3_6.png)
 
-此外，ping 命令还有很多强大的功能。有些开发者为了防止别人攻击自己的服务器，或者获得信息，会禁止 ping 功能，比如 ping qq.com 就得不到结果。
+此外，ping 命令还有很多强大的功能。有些开发者为了防止别人攻击自己的服务器，或者获得信息，会禁止 ping 功能，比如`ping qq.com`就得不到想要的结果。
 
 ## 4.域名是什么
 
@@ -51,11 +51,11 @@ ping 命令常常用于测试与目标 IP 连接的稳定性和速度，下面�
 域名从级别来分，可以分为：
 
 - 顶级域名（例如 com）
-- 二级域名（俗称一级域名，例如 baidu.com、bing.com）
-- 三级域名（俗称二级域名，例如 www.baidu.com、cn.bing.com)
+- 二级域名（俗称一级域名，例如 `baidu.com`、`bing.com`）
+- 三级域名（俗称二级域名，例如 `www.baidu.com`、`cn.bing.com`)
 
 下级域名和上级域名之间是父子关系。
 
-要注意的是，www.XXX.com和XXX.com是两个不同的域名，它们可以分属两个不同的公司。
+要注意的是，`www.XXX.com` 和`XXX.com`是两个不同的域名，它们可以分属两个不同的公司。
 
 注：本文部分图片源于饥人谷视频截图，版权属于饥人谷，不得用于盈利，非盈利转载请注明出处。
