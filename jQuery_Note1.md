@@ -104,3 +104,10 @@ $('.red').next()    //获取下一个元素
 $('.red').prev()    //获取上一个元素
 $('.red').each(fn)  //遍历 .red ，并对每个元素执行fn
 ```
+
+### 3.4 移动元素
+
+```JS
+$('.red').insertAfter($('.blue'));  //将.red元素移动到.blue后面
+$('.red').after($('.blue'));    //将.red元素移动到.blue前面
+```
