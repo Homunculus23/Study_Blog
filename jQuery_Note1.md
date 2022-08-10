@@ -38,7 +38,7 @@ window.$ = window.jQuery = function(...){...}
 每一步的 jQuery 操作，返回的都是一个 jQuery 对象，所以不同操作可以连在一起，一次性进行多项操作，这就是链式：
 
 ```JS
-$('.test')
+$('#test')
     .addClass('red')
     .find('.child')
     .addClass('blue')
@@ -47,7 +47,7 @@ $('.test')
 jQuery 为了方便进行连续操作，甚至还提供了一个`.end()`，使得操作对象可以后退：
 
 ```JS
-$('.test')
+$('#test')
     .addClass('red')
     .find('.child')
     .addClass('blue')
