@@ -1,5 +1,5 @@
 # 自我介绍
-我学习过的编程相关技能有 `HTML` `CSS` `JS``TS`等等，以下是我写过的部分代码：
+我学习过的编程相关技能有 `HTML` `CSS` `JS` `TS`等等，以下是我写过的部分代码：
 ```JS
 export const Tabs = defineComponent({
   props: {
